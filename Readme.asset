@@ -1,15 +1,14 @@
-IMPORTANT: the game requires you to use a controler in order to control the character properly. 
+IMPORTANT: the game requires you to use a controler in order to control the character properly. The game is still technically playable with arrow keys, but it doesn't control nearly as well as using a joystick.
 
-The release is currently only semi-playable as it lacks a winning/losing game state. There are methods that get called, but they are currently unimplemented. 
-Additionally, the game currently requires a controller in order to play properly. 
+Here is a link to a google doc that has my actual README:
+https://docs.google.com/document/d/1Ksk70sscQ1ga3haVIEjfmQULUkYNwUqUTaJ-0lfvJJ4/edit?usp=sharing
 
-All of these will be fixed in the next update.
 
-The games lighting is currently pretty simple. I plan to do work to light the scene in a more interesting way, maybe by using scrolling background elements. But I could not implement it in time for this progress update. 
+here is a link to my reflection:
+https://docs.google.com/document/d/1jZC8357cwWk-05WTUWOK-urSI5b4wIaoGgR_liaZ_U4/edit?usp=sharing
 
-The lighting was much more interesting in a prior update, which can be seen in this footage of an early version:
-https://youtu.be/rlcNe7wjwEs?t=22
 
-but I had to rearrange some stuff when adding the black hole, which caused this effect to no longer be possible, and I didn't hav enough time to rework it.
-I plan to implement something simular in the final version.
+Link to the video:
+https://youtu.be/zwBYQSvirTU
+
 
